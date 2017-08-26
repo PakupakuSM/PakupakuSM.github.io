@@ -1,22 +1,20 @@
-logo: # add logo name
-title: Bef - Enjoy Freedom
+logo: # 컨피그파일이것저것건드려보기글쓰는데불편함이있다
+title: 이것저것만져보기
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  이곳에블로그에대한설명을쓰라는데
 permalink: ':title/'
 baseurl: 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: 배너타이틀이무엇인지
+banner-desc: 배너에관한설명을쓰는곳
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-name: 내이름쓰는곳
+about-author: 어떤사람인지
 email: your-email@domain.com # your email
 phone: (496)-169-6557 # your pnone number
 website: https://dwayne.example.com # you website
